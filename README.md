@@ -6,5 +6,8 @@ Basically the app takes as input a pdf file, applies data cleaning and NLP proce
 - text summarization for each page ( done with R via LexRank algorithm)
 - entity recognition for each page ( done with Python via Spacy)
 - tool for extracting tables from document and download as csv file
+
+You can access the application through this url : https://lbeydia.shinyapps.io/Document_Analyzer
+
 ## How it works
 ![Alt text](www/My_homepage.png?raw=true "How it Works")
