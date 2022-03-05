@@ -1,4 +1,4 @@
-# Financial Document Analyzer
+# Financial PDF Analyzer
 A Shiny application that analyzes financial documents (pdf format) using NLP and machine learning.
 
 Basically the app takes as input a pdf file, applies data cleaning and NLP processing and give back :
